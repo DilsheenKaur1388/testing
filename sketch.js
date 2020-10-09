@@ -21,7 +21,7 @@ function setup() {
 	//Create a Ground
 	
 
-	var render = Render.create({
+/*	var render = Render.create({
 	  element: document.body,
 	  engine: engine,
 	  options: {
@@ -30,8 +30,8 @@ function setup() {
 	    wireframes: false
 	  }
 	});
-
-	Engine.run(engine);
+		*/
+		Engine.run(engine);
 	//Render.run(render);
   
 }
